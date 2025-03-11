@@ -1,1 +1,1 @@
-# Laby1
+# Laby1 oprogramowaniue

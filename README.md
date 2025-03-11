@@ -1,1 +1,6 @@
-# Laby1 oprogramowaniue
+
+
+# Laby1
+projekt
+psujemy readme
+
